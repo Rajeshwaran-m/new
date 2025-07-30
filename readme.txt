@@ -1,3 +1,1 @@
-initial readme
-more info
-Branch update
+i am from shiv nadar university
