@@ -1,3 +1,1 @@
-initial readme
-more info
-Branch update
+Hi, We are from Shiv Nadar University Chennai!!
