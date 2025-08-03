@@ -1,5 +1,2 @@
 this is from my lap
-this is from my computer
-line from me
-Line from peer
-Another line from me
+line from peer
